@@ -1,0 +1,6 @@
+input_file: C:\Users\omarl\OneDrive\Documents\DocPer\work\interviews\serif\2024-01-01_anthem_index.json.gz
+output_file: urls.txt
+location: NY
+plan_type: PPO
+first_n: -1
+verbose: 1
